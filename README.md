@@ -14,6 +14,7 @@ Getting Started
 Features
 
 •⁠  ⁠Create new notes
+•⁠  ⁠Edit existing notes
 •⁠  ⁠Delete notes
 
 
