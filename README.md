@@ -1,5 +1,9 @@
 Notes App README
 
+Screen-reccording link:[screen reccording notes-app.zip](https://github.com/user-attachments/files/16058686/screen.reccording.notes-app.zip)
+
+
+
 Overview
 
 This project is a simple notes app built using React, HTML, JS, and CSS. It allows users to create, edit, and delete notes.
