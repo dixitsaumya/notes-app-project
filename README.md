@@ -1,3 +1,60 @@
+Notes App README
+
+Overview
+
+This project is a simple notes app built using React, HTML, JS, and CSS. It allows users to create, edit, and delete notes.
+
+Getting Started
+
+1.⁠ ⁠Clone the repository: `git clone (link unavailable)
+2.⁠ ⁠Install dependencies: ⁠ npm install ⁠
+3.⁠ ⁠Start the app: ⁠ npm start ⁠
+4.⁠ ⁠Open the app in your browser: ⁠ http://localhost:3000 ⁠
+
+Features
+
+•⁠  ⁠Create new notes
+•⁠  ⁠Delete notes
+
+
+Technologies Used
+
+•⁠  ⁠React (v18.2.0)
+•⁠  ⁠HTML5
+•⁠  ⁠CSS3 (using CSS Modules)
+•⁠  ⁠JavaScript (ES6+)
+•⁠  ⁠React Hooks (useState, useEffect)
+
+Folder Structure
+
+•⁠  ⁠⁠ src ⁠: Contains the application code
+    - ⁠ components ⁠: Reusable React components
+    - ⁠ containers ⁠: Higher-order components that wrap around ⁠ components ⁠
+    - ⁠ images ⁠: Static images used in the app
+    - ⁠ index.js ⁠: Main application entry point
+    - ⁠ styles ⁠: CSS files for each component
+•⁠  ⁠⁠ public ⁠: Static assets served directly by the web server
+•⁠  ⁠⁠ package.json ⁠: Project dependencies and scripts
+
+Development
+
+•⁠  ⁠Run ⁠ npm start ⁠ to start the development server
+•⁠  ⁠Run ⁠ npm test ⁠ to run the test suite
+•⁠  ⁠Run ⁠ npm run build ⁠ to create a production build
+
+Contributing
+
+•⁠  ⁠Fork the repository and create a new branch
+•⁠  ⁠Make changes and commit them with a descriptive message
+•⁠  ⁠Push changes to your fork and submit a pull request
+
+
+Acknowledgments
+
+•⁠  ⁠Thanks to the React team for creating an amazing framework!
+•⁠  ⁠Thanks to the open-source community for their contributions and support.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
