@@ -1,6 +1,18 @@
-Notes App README
+##*Notes App README
 
-Screen-reccording link:[screen reccording notes-app.zip](https://github.com/user-attachments/files/16058686/screen.reccording.notes-app.zip)
+##Author
+
+||** Tranning project (Batch-2)**
+
+|| -**Shikha Tripathi**
+   - Roll Number: 23071003604
+  | - **Saumya Dixit**
+   - Roll Number: 23071003586
+ |  - **Shafquat Umam**
+   - Roll Number: 23071003593
+
+Screen-reccording link:
+[screen reccording notes-app.zip](https://github.com/user-attachments/files/16058686/screen.reccording.notes-app.zip)
 
 
 
