@@ -4,11 +4,11 @@
 
 ||** Tranning project (Batch-2)**
 
-|| -**Shikha Tripathi**
+  || -**Shikha Tripathi**
    - Roll Number: 23071003604
-  | - **Saumya Dixit**
+  || - **Saumya Dixit**
    - Roll Number: 23071003586
- |  - **Shafquat Umam**
+  ||  - **Shafquat Umam**
    - Roll Number: 23071003593
 
 Screen-reccording link:
